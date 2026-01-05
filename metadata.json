@@ -1,0 +1,8 @@
+{
+  "name": "V4.Video Studio byRatima",
+  "description": "A high-end studio for AI video production featuring character & product bibles, smart outfit consistency, and professional TTS integration using Gemini and Veo 3.1.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
